@@ -1,7 +1,7 @@
 .genero{
     margin-left: 40%;
     font-size: 38px;
-    color: rgb(237, 195, 87);
+    color: rgb(174, 158, 117);
 }
 
 .card_genero{
@@ -10,10 +10,11 @@
 .agg{
     margin-left: 48%;
     font-size: 34px;
+    display: flex;
+    flex-direction: row;
 }
 .ag{
 
-    margin-left: 40%;
     font-size: 34px;
     text-decoration: none;
     background-color: bisque;
@@ -40,7 +41,9 @@
 
 .gusto{
     justify-content:space-evenly;
-    width: 68%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
 
 }
 
@@ -49,4 +52,77 @@ scale: 1px 2px;
 
 }
 
+@media screen and (min-width:960px) and (max-width:1199px){
+
+  
+}
+
+@media screen and (min-width:768px) and (max-width:959px){
+
+  
+}
+
+@media screen and (min-width:480px) and (max-width:767px){
+
+  
+}
+@media screen and (min-width:200px) and (max-width:479px){
+
+    .genero{
+        margin-left: 20%;
+        font-size: 35px;
+        color: rgb(174, 158, 117);
+    }
+    
+    .card_genero{
+        justify-items: center;
+    }
+    .agg{
+        margin-left: 20%;
+        font-size: 30px;
+        display: flex;
+        flex-direction: row;
+        
+    }
+    
+  
+    .ag{
+    
+        font-size: 14px;
+        text-decoration: none;
+        background-color: bisque;
+        padding: 0.5rem 0.5rem;
+        border-radius: 5px;
+        display: flex;
+        margin-top: -20px;
+    }
+    
+    .imagener{
+        flex-wrap: nowrap;
+        flex-direction:row;
+        display: flex;
+        content: center;
+        justify-content:space-evenly;
+        margin-left: 10px;
+    
+    
+    
+    }
+    .imagener img{
+        margin: 30px;
+        height: 25rem;
+    
+    }
+    
+    .gusto{
+        width: 90%;
+        display: flex;
+        position: absolute;
+    
+    }
+    
+    .imagener img:hover{
+    scale: 1px 2px;
+}
+}
 

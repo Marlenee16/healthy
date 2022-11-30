@@ -349,66 +349,20 @@
 
   .footer-container .social-media .social-media-wrap > p{
       font-size: 15px;
-      width: 130%;
+      width: 100%;
       padding-left:0px;
-      margin-left: -20px;
-      
-  }
-
-  .footer-container .social-media .social-media-wrap .website-rights{
-    font-size:9px;
-    width: 170%;
-    margin-left: 25px;
-  }
-
-}
-
-
-@media screen  and (max-width:390px){
-  .footer-container{
-    width: 100%;
-
-  }
-
-  .social-media{
-    width: 40%;
-    height: 10rem;
-
-  }
-
-  .social-icons{
-    margin: 30px;
-    width: 90%;
-    margin-left: 2rem;
-  }
-
-
-  .fab.fa-facebook-f{
-    font-size: 30px;
-  }
-
-  .fab.fa-instagram{
-    font-size: 30px;
-  }
-
-  .fab.fa-google{
-    font-size: 30px;
-  }
-
-
-  .footer-container .social-media .social-media-wrap > p{
-      font-size: 15px;
-      width: 130%;
-      padding-left:0px;
-      margin-left: 20px;
+      margin-left: 0px;
       
   }
 
   .footer-container .social-media .social-media-wrap .website-rights{
     font-size:10px;
-    width: 170%;
-
-
+    width: 130%;
+    margin-left: 0px;
   }
 
 }
+
+
+
+

@@ -115,15 +115,11 @@ border: solid;
 }
 
 @media screen and (min-width: 768px) and (max-width: 959px)  {
-    .caja1{
-        border: solid;
-        
-        }
+
 
     .image{
         width: 39%;
         padding-left: 0;
-        border: solid;
 
         
 
@@ -135,13 +131,11 @@ border: solid;
         height: 190px;
         justify-content: flex-start;
         display: flex;
-        border: solid;
     }
 
 
 .letra p{
 
-border: solid;
 font-size: 20px;
 
 
@@ -233,7 +227,7 @@ font-size: 20px;
         width: 120px;
         height: 120px;
         display: flex;
-        border: solid;
+
 
  
     }

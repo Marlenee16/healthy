@@ -22,7 +22,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link instagram'
-              to='https://www.instagram.com/'
+              to='https://www.instagram.com/life_healthysv/'
               target='_blank'
               aria-label='Instagram'
             >

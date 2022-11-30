@@ -16,8 +16,12 @@ import Vegano from './components/Paginas/Recetario/Vegano/Vegano';
 import Faciles from './components/Paginas/Recetario/Faciles/Faciles';
 import Salvador from './components/Paginas/Recetario/Salvador/Salvador';
 import Postres from './components/Paginas/Recetario/Postres/Postres';
-import Datos from './components/Paginas/PesoIdeal/Datos/Datos';
 import Ejercitarte from './components/Paginas/Recomendaciones/Ejercitarte/Ejercitarte';
+import Comida from './components/Paginas/Recomendaciones/Comida/Comida';
+import Agua from './components/Paginas/Recomendaciones/Agua/Agua';
+import Fruta from './components/Paginas/Recomendaciones/Fruta/Fruta';
+import Estres from './components/Paginas/Recomendaciones/Estres/Estres';
+import Mitos from './components/Paginas/Recomendaciones/Mitos/Mitos';
 
 function App() {
   
@@ -51,8 +55,13 @@ function App() {
         <Route path='/Salvador' element={<Salvador/>}/>
         <Route path='/Postres' element={<Postres/>}/>
 
-        <Route path='/Datos' element={<Datos/>} />
         <Route path='/Ejercitarte' element={<Ejercitarte/>} />
+        <Route path='/Comida' element={<Comida/>} />
+        <Route path='/Agua' element={<Agua/>} />
+        <Route path='/Fruta' element={<Fruta/>} />
+        <Route path='/Estres' element={<Estres/>} />
+        <Route path='/Mitos' element={<Mitos/>} />
+
         </Routes>
 
 

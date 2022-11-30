@@ -23,7 +23,7 @@ function Recomendaciones (){
 <body className="bo">
     <div className="caja1" >
         <div className="image">
-       <a className="image1"> <img  src="src/assets/ejercicio.jpg" alt="ejercitando"/> </a>
+       <a className="image1"> <img  src="https://scontent.fsal6-1.fna.fbcdn.net/v/t39.30808-6/316678740_112361055038750_7424648340796729372_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=xF77ZZNOTswAX-kYwUR&_nc_ht=scontent.fsal6-1.fna&oh=00_AfCnJrPfrMZwtHH2g1ZVyL94vw4N2lobtjXlFhIqtAk2rw&oe=638C104E" alt="ejercitando"/> </a>
        </div>
        <div className="letra">
         <b><p className="tip">Tips a la hora de ejercitarte</p></b>
@@ -40,7 +40,7 @@ function Recomendaciones (){
 
         <div className="caja1">
         <div className="image">
-       <a className="image1"> <img  src="src/assets/comidamala.jpg" alt="ejercitando"/> </a>
+       <a className="image1"> <img  src="https://scontent.fsal6-1.fna.fbcdn.net/v/t39.30808-6/316829924_112361051705417_324181271917605810_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=1EqrOsIeUoAAX-BEUnP&_nc_ht=scontent.fsal6-1.fna&oh=00_AfCXPcEiBTkrNznCcLwzhgGPUesADyRKw_xnaebcjV8RCw&oe=638B8C09" alt="ejercitando"/> </a>
        </div>
        <div className="letra">
         <b><p className="tip">Alimentos perjudiciales para la salud</p></b>
@@ -55,7 +55,7 @@ function Recomendaciones (){
 
         <div className="caja1">
         <div className="image">
-       <a className="image1"> <img  src="src/assets/fruta.jpg" alt="ejercitando"/> </a>
+       <a className="image1"> <img  src="https://scontent.fsal6-1.fna.fbcdn.net/v/t39.30808-6/316538257_112361241705398_2220745136445817474_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=wwhLBV2Wl1IAX_DL3n7&_nc_ht=scontent.fsal6-1.fna&oh=00_AfAPjbfvNEDOkXpZFmCt0UXI27wvj9SSaqcjqZEEDRVrIQ&oe=638BABD7" alt="ejercitando"/> </a>
        </div>
        <div className="letra">
         <b><p className="tip">Frutas que se recomienda ingerir con frecuencia</p></b>

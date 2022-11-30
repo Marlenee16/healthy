@@ -91,7 +91,7 @@ function Recetario (){
     <div className="box"><a className="Justin">Recetas en proteinas</a></div><button className="Punk" onClick={()=>navigate("/Proteinas")}>Ver</button>
     <div className="box"><a className="Justin">Recetas en Vitaminas</a></div><button className="Punk" onClick={()=>navigate("/Vitaminas")}>Ver</button>
     <div className="box"><a className="Justin">Recetas en Grasa</a></div><button className="Punk" onClick={()=>navigate("/Grasas")}>Ver</button>
-    <div className="box"><a className="Justin">Recetas Veganas</a></div><a className="Punk" href="/Vegano">Ver</a>
+    <div className="box"><a className="Justin">Recetas en Grasa</a></div><button className="Punk" onClick={()=>navigate("/Vegano")}>Ver</button>
     </div>
    
 
